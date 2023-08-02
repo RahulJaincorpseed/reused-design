@@ -1,11 +1,11 @@
 import './App.css';
-import TextColorFlowAnimation from './TextAnimation/TextColorFlowAnimation';
+import BackgroundParallexEffect from './BackgroudParallex/BackgroundParallexEffect';
 
 function App() {
   return (
     <div className="App">
       <h1>Reused components</h1>
-      <TextColorFlowAnimation />
+      <BackgroundParallexEffect />
     </div>
   );
 }
